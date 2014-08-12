@@ -1,0 +1,28 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "name":"Bob",
+  "photo":"http://blog.bonehealthnow.com/wp-content/uploads/2014/06/healthy-guy.jpg",
+  "spouse":{"name": "Sarah", "photo":"http://jamyesack.files.wordpress.com/2013/01/happy-woman-fotolia_12331389_subscription_xxl.jpg"},
+  "cash":1000,
+  "assets":[{"name":"ring", "photo":"http://www.sareenjewelry.com/image/cache/data/tulip/TLP401/tulip-ladies-diamond-ring-20663053-1000x1000.jpg", "value":5000},{"name": "car", "photo":"http://www.vantagesportscars.com/wp-content/uploads/2012/10/VW-Thing-002.jpg", "value": 7000}],
+  "results":{"wins": 5, "losses": 3}
+}
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "name":"Larry",
+  "photo":"http://www.cahuggins.com/wp-content/uploads/2013/11/man-crying.png",
+  "spouse":{"name":"Jenny", "photo":"http://www.theworkzine.com/wp-content/uploads/2011/03/bad_boss-300x223.jpg"},
+  "cash":2000,
+  "assets":[{"name":"necklace", "photo":"http://www.medievalbridalfashions.com/images/necklaces/Innocence/Innocence-necklace-2.JPG", "value":2000},{"name": "fur", "photo":"http://www.fursource.com/images_wm/large/Mens_Coyote_Fur_Coat_11482.jpg", "value": 9000}],
+  "results":{"wins": 0, "losses": 5}
+}
+{
+  "_id":{"$oid":"000000000000000000000003"},
+  "name":"Dakota",
+  "photo":"http://www.cwpt.ca/wp-content/uploads/2013/05/happy-jackpot-winne.jpg",
+  "spouse":{"name":"Brad", "photo":"http://jonnybcarroll.files.wordpress.com/2013/03/man-happy.jpg"},
+  "cash":10000,
+  "assets":[{"name":"boat", "photo":"http://www.charterworld.com/news/wp-content/uploads/2011/03/Benetti-Tradition-100-at-the-Dubai-International-Boat-Show.jpg", "value":20000},{"name": "jet", "photo":"http://site.privatejetdaily.com/wp-content/uploads/2013/02/Private-Jet1.jpg", "value": 500000}],
+  "results":{"wins": 9, "losses": 0}
+}
+
