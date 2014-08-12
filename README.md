@@ -1,15 +1,14 @@
-## name of project
+## Derby
 ### Code Badges
-build status icon
-coverage status icon
-
+[![Build Status](https://travis-ci.org/jessicafraines/derby.svg)](https://travis-ci.org/jessicafraines/derby)
+[![Coverage Status](https://coveralls.io/repos/jessicafraines/derby/badge.png)](https://coveralls.io/r/jessicafraines/derby)
 ### About
-write a description about your project
+This is a derby app that will allow the user to bet on race horses.
 
 ### Models
 ```
 Model 1
-prop-a
+Gambler
 prop-b
 .classMethod-c
 #instanceMethod-d
@@ -17,7 +16,7 @@ prop-b
 
 ```
 Model 2
-prop-e
+Horse
 prop-f
 .classMethod-g
 #instanceMethod-h
@@ -35,7 +34,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Jessica F Raines](https://github.com/jessicafraines)
 
 ### License
 [MIT](LICENSE)
