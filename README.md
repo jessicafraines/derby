@@ -1,8 +1,7 @@
 ## Derby
 ### Code Badges
 [![Build Status](https://travis-ci.org/jessicafraines/derby.svg)](https://travis-ci.org/jessicafraines/derby)
-coverage status icon
-
+[![Coverage Status](https://coveralls.io/repos/jessicafraines/derby/badge.png)](https://coveralls.io/r/jessicafraines/derby)
 ### About
 This is a derby app that will allow the user to bet on race horses.
 
