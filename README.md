@@ -1,6 +1,6 @@
 ## Derby
 ### Code Badges
-build status icon
+[![Build Status](https://travis-ci.org/jessicafraines/derby.svg)](https://travis-ci.org/jessicafraines/derby)
 coverage status icon
 
 ### About
